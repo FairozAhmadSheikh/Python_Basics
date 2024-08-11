@@ -65,3 +65,5 @@ print(str.capitalize()) #Capitalize
 print(str.find("llo"))  #Gives index of place
 # Replacing Element in strings
 print(str.replace("hello","Hi"))
+# Finding number of occourences in string
+print(str.count("W"))
